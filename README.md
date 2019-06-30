@@ -6,7 +6,7 @@ freeCodeCamp is a non-profit organization whose purpose is to make learning web 
 
 A [Pen](http://codepen.io/ChrisJabb21/pen/kkVwqE) by [Chris F Jabbour](http://codepen.io/ChrisJabb21) on [CodePen](http://codepen.io/).
 
-Deployed on [Github](https://chrisjabb21.github.io/NikoTestlaTribPage.io/)
+Deployed on [Github](https://chrisjabb21.github.io/FCCTribPage.io/)
 
 [License](http://codepen.io/ChrisJabb21/pen/kkVwqE/license).
 
